@@ -1,108 +1,52 @@
-<!-- Profile Header -->
+## 🚀 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
+
+---
+
+## 🧠 About Me
+
+* 💻 Strong foundation in **HTML, CSS, JavaScript (ES6+)**
+* 🎨 Skilled in **TailwindCSS + modern UI styling**
+* ⚡ Experience with **Vite-based workflows**
+* 🧩 Focused on **modular architecture & clean code**
+* 📈 Continuously improving and learning advanced frontend concepts
+
+---
+
+### 💡 Feel free to reach out for collaboration or job opportunities!
+
+| 🌐 Connect | 🛠️ Featured Projects |
+|-----------|--------------------|
+| 🌎 [Portfolio](https://yourportfolio.com)<br> 💼 [LinkedIn](https://www.linkedin.com/in/%D1%85%D1%83%D1%81%D0%BD%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD-%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BE%D0%B2-0b795b357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br> 📧 [Email](mailto:kh.sh.iskandarov@gmail.com)<br> 💬 [Telegram](https://t.me/khusniddiniskandarov) | - 🔗 [🌱 Plants Website](https://plants7.vercel.app)  ———> 📂 https://github.com/KhusniddinIskandarov/plant-website<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
+
+---
+
+## 🛠️ Tech stack:
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+There+👋&height=100&section=header"/>
-</p>
-
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Welcome+To+My+Github+Profile;Find+Out+My+Projects+Here..." alt="Typing SVG">
-  </a>
-</p>
-
-<!-- Introduction -->
-<h1 align="center">I'm Otamurod Safarov, Bachelor of Science in Computer Science & Software Engineering, IUT.</h1>
-
-<!-- Bio and Skills -->
-<p align="center"> 
-  <ul>
-    <li>🔭 I’m a Native Android Developer | Full Stack KMP Developer</li>
-    <li>📫 To reach me: <a href="https://otamurod.github.io">Otamurod</a></li>
-    <li>⚡ <a href="https://otamurods-devpage.jimdosite.com/">My portfolio</a></li>
-    <li>⚡ <a href="https://app.enhancv.com/share/1c7c8112/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">My Resume</a></li>
-    <li>🧩 Skills: C++, Java, Kotlin, Php, HTML5, CSS3, MySQL, Pascal, and etc</li>
-    <li>🖼 Other skills: Laravel Framework, UX/UI Design</li>
-    <li>💻 OS: MacOS, Ubuntu 20.04 LTS, Windows 10, Android, iOS</li>
-    <li>🔧 IDE: CLion, VsCode(or Visual Studio), Android Studio, Xcode, PhpStorm, Intellij IDEA Ultimate</li>
-  </ul>
-</p>
-
-<p align="center">
-  <h2 align="center">Profile Stats</h2>
-</p>
-
-<p align="center">
-  <a href="https://github.com/otamurod">
-    <img src="https://komarev.com/ghpvc/?username=otamurod&&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&gradient=red,orange"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&gradient=blue,cyan"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&gradient=red,orange"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&gradient=yellow,orange"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&gradient=pink,purple"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&gradient=purple,indigo"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&gradient=cyan,blue"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&gradient=cyan,blue"/>
   
-  <a href="https://github.com/otamurod?tab=followers">
-    <img src="https://img.shields.io/github/followers/otamurod?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
-  </a>  
 </p>
 
-<!-- Image -->
-<p align="center">
-  <img height="70em" src="http://cdn.onlinewebfonts.com/svg/img_529337.png">
-</p>
+---
 
-<!-- Total time coded -->
-<p align="center">
-  <h2 align="center">📊 Total time coded </h2>
-</p>
+## 📊 GitHub Stats
+![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=noworneverallornothing1-droid&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noworneverallornothing1-droid&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <a href="https://wakatime.com/@018af96f-cc66-4e21-a00c-028b0e9f72bb">
-    <img src="https://wakatime.com/badge/user/018af96f-cc66-4e21-a00c-028b0e9f72bb.svg?style=for-the-badge" alt="Total time coded since Oct 4 2023" />
-  </a>
-</p>
+---
 
-<!-- Weekly development breakdown -->
-<p align="center">
-  <h2 align="center">📊 Weekly development breakdown</h2>
-</p>
+## 🎯 Goals
 
-<p align="center">
-  <a href="https://wakatime.com/@otamurod">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otamurod&theme=radical" alt="Otamurod's Wakatime Stats">
-  </a>
-</p>
+* Become a strong Frontend Engineer
+* Work on real-world scalable projects
+* Contribute to open source
+* Reach **HARVARD-level engineering mindset**
 
-<!-- Languages & Coding Activity -->
-<p align="center">
-  <table style="width:100%;" align="center">
-    <tr>
-        <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@otamurod/681132bf-28b1-4917-a13c-d8eb1ee9a106.svg" style="width:100%;"/>
-        </td>
-        <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@otamurod/e426474e-26a6-4737-9a69-e8a5f141d0b7.svg" style="width:100%;"/>
-        </td>
-    </tr>
-</table>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
-  <h2 align="center">GitHub Stats</h2>
-  <a href="https://github.com/otamurod">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otamurod&show_icons=true&theme=tokyonight&layout=compact" alt="otamurod" />
-  </a>
-</p>
-
-<!-- GitHub Rankings -->
-<p align="center">
-  <h2 align="center">GitHub Rankings</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=otamurod&theme=radical" alt="GitHub Ranks" />
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a> 
-  <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/apple.svg" alt="iOS" width="40" height="40"/> </a>
-  <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" width="40" height="40"/> </a> 
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/xcode.svg" alt="Xcode" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target
+---
