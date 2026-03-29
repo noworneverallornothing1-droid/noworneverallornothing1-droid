@@ -87,8 +87,6 @@
   <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
   <h2 align="center">GitHub Stats</h2>
   <a href="https://github.com/otamurod">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=otamurod&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otamurod&show_icons=true&theme=tokyonight&layout=compact" alt="otamurod" />
   </a>
 </p>
 
